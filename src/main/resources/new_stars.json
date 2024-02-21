@@ -1,0 +1,131 @@
+{
+  "constellations": [
+    {
+      "name": "Taurus",
+      "stars": [
+        "Aldebaran",
+        "Elnath",
+        "Tau Tauri",
+        "Betelgeuse"
+      ]
+    },
+    {
+      "name": "Orion",
+      "stars": [
+        "Rigel",
+        "Zeta Tauri",
+        "Kaus Australis"
+      ]
+    },
+    {
+      "name": "Virgo",
+      "stars": [
+        "Spica",
+        "Porrima",
+        "Auva",
+        "Vindemiatrix",
+        "Bellatrix"
+      ]
+    },
+    {
+      "name": "Scorpius",
+      "stars": [
+        "Antares",
+        "Shaula",
+        "Sargas"
+      ]
+    }
+  ],
+  "stars": [
+    {
+      "xPosition": 50,
+      "brightness": 0.85,
+      "yPosition": 400,
+      "name": "Aldebaran"
+    },
+    {
+      "xPosition": 100,
+      "brightness": 1.65,
+      "yPosition": 450,
+      "name": "Elnath"
+    },
+    {
+      "xPosition": 150,
+      "brightness": 3.5,
+      "yPosition": 420,
+      "name": "Tau Tauri"
+    },
+    {
+      "xPosition": 300,
+      "brightness": 2.95,
+      "yPosition": 610,
+      "name": "Zeta Tauri"
+    },
+    {
+      "xPosition": 500,
+      "brightness": 0.42,
+      "yPosition": 300,
+      "name": "Betelgeuse"
+    },
+    {
+      "xPosition": 320,
+      "brightness": 0.12,
+      "yPosition": 500,
+      "name": "Rigel"
+    },
+    {
+      "xPosition": 280,
+      "brightness": 1.64,
+      "yPosition": 150,
+      "name": "Bellatrix"
+    },
+    {
+      "xPosition": 600,
+      "brightness": 0.98,
+      "yPosition": 300,
+      "name": "Spica"
+    },
+    {
+      "xPosition": 620,
+      "brightness": 2.74,
+      "yPosition": 320,
+      "name": "Porrima"
+    },
+    {
+      "xPosition": 610,
+      "brightness": 3.4,
+      "yPosition": 340,
+      "name": "Auva"
+    },
+    {
+      "xPosition": 630,
+      "brightness": 2.85,
+      "yPosition": 310,
+      "name": "Vindemiatrix"
+    },
+    {
+      "xPosition": 700,
+      "brightness": 0.03,
+      "yPosition": 250,
+      "name": "Antares"
+    },
+    {
+      "xPosition": 820,
+      "brightness": 1.62,
+      "yPosition": 220,
+      "name": "Shaula"
+    },
+    {
+      "xPosition": 810,
+      "brightness": 6.4,
+      "yPosition": 550,
+      "name": "Sargas"
+    },
+    {
+      "xPosition": 630,
+      "brightness": 1.79,
+      "yPosition": 610,
+      "name": "Kaus Australis"
+    }
+  ]
+}
