@@ -2,6 +2,10 @@
 
 Star Map is a JavaFX application that visualizes a star map. The project is built with Maven and demonstrates key concepts such as data loading, data writing, model-view-controller (MVC) pattern, and JavaFX UI design.
 
+<img src="https://github.com/DanielBros1/StarMap/assets/112472952/a2fe6e6f-b2e7-45f6-a866-c0ea6812b6b7" width="420">
+<img src="https://github.com/DanielBros1/StarMap/assets/112472952/ad942a55-0fa5-4a55-9cb5-f64d8a69dde4" width="420">
+
+
 ### Key Features
 
 - **Star and Constellation Management**: The `StarMapController` class manages the stars and constellations. It provides methods to add, remove, and retrieve stars and constellations. It also allows adding a star to a constellation, removing a star from a constellation, and moving a star to another constellation.
@@ -12,10 +16,11 @@ Star Map is a JavaFX application that visualizes a star map. The project is buil
 
 - **Model-View-Controller (MVC) Pattern**: The project follows the MVC pattern, with `Star` and `Constellation` as the model, `StarMapView` as the view, and `StarMapController` as the controller.
 
-The project includes a suite of JUnit tests to ensure the correct functionality of the classes. The tests cover scenarios such as loading and writing data, and managing stars and constellations.
+The project includes JUnit tests to ensure the correct functionality of the classes such as loading and writing data
 
+### Additional Screenshots:
 
-- **Chatbot Logic**: The chatbot logic processes user input and generates appropriate responses. It supports commands for making a reservation, viewing all reservations, and deleting a reservation.
+<img src="https://github.com/DanielBros1/StarMap/assets/112472952/d2c09ef1-4cb0-4a2e-b175-770531580f79" width="420">
+<img src="https://github.com/DanielBros1/StarMap/assets/112472952/16451141-f802-4a57-82ef-1dae0bdca02d" width="420">
 
-- **Database Connection**: The system uses a MySQL database to store reservations. The `DatabaseConnection` class provides methods for adding a reservation, deleting a reservation, and listing all reservations.
 
