@@ -18,6 +18,11 @@ Star Map is a JavaFX application that visualizes a star map. The project is buil
 
 The project includes JUnit tests to ensure the correct functionality of the classes such as loading and writing data
 
+### Setup
+- Clone the repository
+- Open the project in your favorite IDE
+- Run the `StarMapApp` class to start the application (javaFX required)
+
 ### Additional Screenshots:
 
 <img src="https://github.com/DanielBros1/StarMap/assets/112472952/d2c09ef1-4cb0-4a2e-b175-770531580f79" width="420">
