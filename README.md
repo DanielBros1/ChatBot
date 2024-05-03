@@ -2,8 +2,8 @@
 
 Star Map is a JavaFX application that visualizes a star map. The project is built with Maven and demonstrates key concepts such as data loading, data writing, model-view-controller (MVC) pattern, and JavaFX UI design.
 
-<img src="https://github.com/DanielBros1/StarMap/assets/112472952/a2fe6e6f-b2e7-45f6-a866-c0ea6812b6b7" width="420">
-<img src="https://github.com/DanielBros1/StarMap/assets/112472952/ad942a55-0fa5-4a55-9cb5-f64d8a69dde4" width="420">
+<img src="https://github.com/DanielBros1/StarMap/assets/112472952/a2fe6e6f-b2e7-45f6-a866-c0ea6812b6b7" width="400">
+<img src="https://github.com/DanielBros1/StarMap/assets/112472952/ad942a55-0fa5-4a55-9cb5-f64d8a69dde4" width="400">
 
 
 ### Key Features
